@@ -19,4 +19,3 @@ for i in file('write_to_file.txt'):
     print data[0], sum([int(x) for x in data[1:]])
 output.close()
 
-
